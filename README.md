@@ -1,6 +1,6 @@
 # Web3 Compliance & Risk Resources
 
-24 years in financial services. Now building at the
+19 years in financial services. Now building at the
 intersection of Traditional Finance and Web3.
 
 ## About Me
