@@ -27,3 +27,15 @@ Nicosia | BNB Chain Dev - Binance Academy
 
 ## Connect
 [LinkedIn](https://linkedin.com/in/khagesh-chaturvedi-b7b05628)
+## 📝 Published Articles
+- [What 19 Years in Banking Taught Me About Web3 Compliance](https://paragraph.com/@0xc8f22f7cab5f4b247519b5af731b983ef4eccfdf/what-19-years-in-banking-taught-me-about-web3-compliance)
+
+## 🎓 Certifications Completed
+- ✅ Financial Crime & OSINT — Udemy (2026)
+- ✅ Trade-Based Money Laundering — UNODC (2026)
+- ✅ BNB Chain Developer — Binance Academy
+- ✅ DeFi, NFT & Blockchain Deep Dive — Binance Academy
+- ✅ Blockchain for Business Sustainability — Binance Academy
+- 🟡 Mastering Web3 — University of Nicosia (In Progress)
+  
+
